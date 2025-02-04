@@ -1,0 +1,18 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Hero Section */
+.hero {
+    background-color: #f8f9fa;
+    padding: 50px 20px;
+}
+
+/* Footer */
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #343a40;
+    color: white;
+}
